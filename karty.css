@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#cards-container {
+    margin-bottom: 20px;
+}
+
+.card {
+    background-image: url ("obrazky/karta.png");
+    
+}
+
+.card:hover {
+    background-color: #45a049;
+}
+
+#result {
+    font-size: 20px;
+    margin-top: 20px;
+}
